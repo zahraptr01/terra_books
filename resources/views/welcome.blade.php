@@ -31,5 +31,5 @@
         <li>Bergabung dalam komunitas pembaca dengan <b>fitur komentar</b></li>
         <li>Login atau daftar untuk pengalaman membaca yang lebih personal </li>
     </ol>
-    <p><b>Mari jelajahi dunia melalui buku bersama TerraBooks!</b>🌱📖</p>
+    <p><b>Mari jelajahi dunia melalui buku bersama TerraBooks!</b></p>
 @endsection
