@@ -24,7 +24,7 @@
         <li><b>Fitur Interaktif</b> - Tambahkan komentar dan ulasan pada buku favoritmu</li>
     </ol>
 
-    <p>Di halaman utama, pengguna dapat: </p>
+    <p>Di halaman utama, pengguna dapat : </p>
     <ol>
         <li>Menjelajahi <b>koleksi buku</b> yang tersedia</li>
         <li>Melihat <b>daftar genre</b> untuk menemukan bacaan favorit </li>
